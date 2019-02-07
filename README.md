@@ -1,3 +1,3 @@
 # TODO LIST
 
-A simple todo list buit with Express, EJS and Bootstrap.
+Based on Angela Yu's course project on Udemy, this is a simple todo list buit with Express, EJS and Bootstrap.
