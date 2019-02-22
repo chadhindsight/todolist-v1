@@ -4,4 +4,4 @@ Based on Angela Yu's course project on Udemy, this is a simple todo list buit wi
 
 ## How it works
 
-A user adds and removes todo list items using the corresponding buttons.
+A user adds and removes todo list items using the corresponding buttons and visual feedback.
