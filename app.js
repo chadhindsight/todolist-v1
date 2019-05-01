@@ -17,7 +17,7 @@ mongoose.connect("mongodb://localhost:27017/todolistDB", { useNewUrlParser: true
 const itemsSchema = {
   name: String
 };
-
+// not working
 const Item = mongoose.model("Item", itemsSchema);
 
 
